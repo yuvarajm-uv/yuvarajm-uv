@@ -19,4 +19,4 @@ This portfolio is built with a focus on **speed, accessibility, and content**. U
 * **Excel:** Data cleaning, pivot tables, formulas, and exploratory analysis.
 * **SQL:** Data extraction, joins, subqueries, CTEs, window functions, and performance optimization.
 * **Python:** Data analysis using Pandas & NumPy; visualization with Matplotlib & Seaborn; basic automation.
-
+* **Power BI:** Interactive dashboards, DAX measures, data modeling, and business insights.
