@@ -2,7 +2,7 @@
 
 A minimalist, high-performance single-page portfolio designed to showcase data analysis projects, SQL queries, and visualizations.
 
-**[🔗 View Live Website](https://yourusername.github.io)**
+**[🔗 View Live Website]([https://yourusername.github.io](https://yuvarajm-uv.github.io/yuvaraj/))**
 
 *(Note: Replace the link above with your actual GitHub Pages URL)*
 
@@ -22,11 +22,3 @@ This portfolio is built with a focus on **speed, accessibility, and content**. U
 * **CSS3:** Custom variables for easy theming and Flexbox/Grid for layout.
 * **No JavaScript:** Keeps the site lightweight and secure.
 
-## 📂 Structure
-
-The project consists of a single file for maximum simplicity:
-
-```text
-/
-├── index.html   # Contains all structure, content, and styles
-└── README.md    # Documentation
