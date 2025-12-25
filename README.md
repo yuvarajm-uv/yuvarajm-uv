@@ -2,9 +2,7 @@
 
 A minimalist, high-performance single-page portfolio designed to showcase data analysis projects, SQL queries, and visualizations.
 
-**[🔗 View Live Website]([https://yourusername.github.io](https://yuvarajm-uv.github.io/yuvaraj/))**
-
-*(Note: Replace the link above with your actual GitHub Pages URL)*
+**[🔗 View Live Website](https://yuvarajm-uv.github.io/yuvaraj/)**
 
 ## 🚀 Project Overview
 
