@@ -16,7 +16,7 @@ This portfolio is built with a focus on **speed, accessibility, and content**. U
 
 ## 🛠️ Tech Stack
 
-* **HTML5:** Semantic structure for SEO and accessibility.
-* **CSS3:** Custom variables for easy theming and Flexbox/Grid for layout.
-* **No JavaScript:** Keeps the site lightweight and secure.
+* **Excel:** Data cleaning, pivot tables, formulas, and exploratory analysis.
+* **SQL:** Data extraction, joins, subqueries, CTEs, window functions, and performance optimization.
+* **Python:** Data analysis using Pandas & NumPy; visualization with Matplotlib & Seaborn; basic automation.
 
