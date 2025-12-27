@@ -26,4 +26,4 @@ Data Analyst with a strong foundation in **SQL, Python and Power BI**. Experienc
 ---
 
 📫 **GitHub:**(https://github.com/yuvarajm-uv)
-🔗 **LinkedIn:** *(add link)*
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/yuvaraj-m-b2ba6522a/)*
