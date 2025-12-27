@@ -1,22 +1,31 @@
-# 📊 Yuvaraj M - Data Analyst Portfolio
+📊 Yuvaraj M — Data Analyst
 
-A minimalist, high-performance single-page portfolio designed to showcase data analysis projects, SQL queries, and visualizations.
+Data Analyst with a strong foundation in SQL, Data Warehousing, and Power BI. Experienced in transforming raw data into actionable insights through efficient querying, modeling, and visualization.
 
-**[🔗 View Live Website](https://yuvarajm-uv.github.io/yuvaraj/)**
+🔗 Portfolio: https://yuvarajm-uv.github.io/yuvaraj/
 
-## 🚀 Project Overview
+📂 Projects
 
-This portfolio is built with a focus on **speed, accessibility, and content**. Unlike complex web frameworks that can be slow to load, this site uses vanilla HTML5 and CSS3 to ensure instant rendering on any device.
+🗄️ SQL – Data Warehouse Project
 
-### key Features
-* **100/100 Lighthouse Performance Score:** Zero external dependencies or frameworks.
-* **Fully Responsive:** Adapts seamlessly to mobile, tablet, and desktop screens.
-* **Dark Mode Support:** Automatically detects and respects the user's system theme preference.
-* **Print Friendly:** CSS optimized for printing (or saving as PDF) for resumes.
+Designed fact & dimension tables
 
-## 🛠️ Tech Stack
+Built analytical queries using joins, CTEs, and window functions
 
-* **Excel:** Data cleaning, pivot tables, formulas, and exploratory analysis.
-* **SQL:** Data extraction, joins, subqueries, CTEs, window functions, and performance optimization.
-* **Python:** Data analysis using Pandas & NumPy; visualization with Matplotlib & Seaborn; basic automation.
-* **Power BI:** Interactive dashboards, DAX measures, data modeling, and business insights.
+Focused on performance and business reporting
+
+📈 Power BI – Blinkit Sales Dashboard
+
+Interactive dashboard for sales and product analysis
+
+DAX measures and dynamic filters
+
+Business-focused visual storytelling
+
+🛠️ Skills
+
+SQL | Excel | Python | Power BI | Data Modeling | Data Visualization
+
+📫 GitHub: https://github.com/yuvarajm-analytics
+
+🔗 LinkedIn: (add link)
