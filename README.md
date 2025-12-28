@@ -16,10 +16,12 @@ Data Analyst with a strong foundation in **SQL, Python and Power BI**. Experienc
 ### 📈 Power BI – Blinkit Sales Dashboard
 - Interactive dashboard for sales and product analysis  
 - DAX measures and dynamic filters  
-- Business-focused visual storytelling  
-
----
-
+- Business-focused visual storytelling
+### 📈 Power BI – Ecommerce Sales Dashboard
+- Interactive dashboard for sales and product analysis  
+- Sales performance tracking  
+- Regional and brand-level analysis
+- Product category optimization
 ## 🛠️ Skills
 **SQL | Excel | Python | Power BI | Data Modeling | Data Visualization**
 
